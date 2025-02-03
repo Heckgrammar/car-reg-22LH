@@ -19,3 +19,7 @@
             charge = (hours * 2) + 2;
         }
         Console.WriteLine("parking charge: £" + charge);
+
+![image](https://github.com/user-attachments/assets/0a8c3127-8c1f-4470-9382-4c3d7a83406e)
+![image](https://github.com/user-attachments/assets/f88e3166-4554-4a0b-85ac-ac155436f57e)
+
